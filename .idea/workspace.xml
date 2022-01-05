@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceb3f24e-78a0-4c55-b21f-d43830dc9845" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZDhxEAVAr4kPT9wpjUEWglToli" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="TPGAss1_219001867" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceb3f24e-78a0-4c55-b21f-d43830dc9845" name="Default Changelist" comment="" />
+      <created>1584379816257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584379816257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="442" key="FileChooserDialogImpl" timestamp="1587470356616">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="402" y="442" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587470356616" />
+    <state width="927" height="160" key="GridCell.Tab.0.bottom" timestamp="1584642296743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="160" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584642296743" />
+    <state width="927" height="160" key="GridCell.Tab.0.center" timestamp="1584642296742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="160" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584642296742" />
+    <state width="927" height="160" key="GridCell.Tab.0.left" timestamp="1584642296742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="160" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584642296742" />
+    <state width="927" height="160" key="GridCell.Tab.0.right" timestamp="1584642296742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="927" height="160" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584642296742" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1584559331244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584559331244" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1584559331244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584559331244" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1584559331244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584559331244" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1584559331244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584559331244" />
+    <state x="269" y="468" key="com.intellij.ide.util.TipDialog" timestamp="1587470317811">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="202" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584733319523" />
+    <state x="269" y="468" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1587470317811" />
+    <state x="539" y="259" width="842" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584531805531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="259" width="842" height="555" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1584531805531" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584533536400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584533536400" />
+    <state x="1245" y="316" key="new project wizard" timestamp="1587470415697">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1245" y="316" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1587470415697" />
+    <state x="427" y="361" key="search.everywhere.popup" timestamp="1584382243098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="427" y="361" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584382243098" />
+  </component>
+</project>
